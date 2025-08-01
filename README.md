@@ -1,5 +1,7 @@
 # DynamicCube
-WIP
+![images/FullCad.webp](images/FullCad.webp)
+![images/Top.webp](images/Top.webp)
+
 
 Over the years, I’ve been using 3D printers designed by others. They worked, sure, but they were never mine. This time, I wanted something different. Something personal.
 
